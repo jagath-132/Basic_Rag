@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-groq
+langchain-community
+chromadb
+unstructured[docx]
+huggingface-hub
+sentence-transformers
+-e .
